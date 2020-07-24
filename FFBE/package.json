@@ -1,0 +1,20 @@
+{
+  "name": "ffbe",
+  "version": "1.0.0",
+  "description": "personal project search engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardhyde91/ffbe2.git"
+  },
+  "author": "Richard Hyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardhyde91/ffbe2/issues"
+  },
+  "homepage": "https://github.com/richardhyde91/ffbe2#readme"
+}
